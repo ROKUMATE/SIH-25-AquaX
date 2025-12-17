@@ -1,0 +1,15 @@
+[submodule "AquaX"]
+	path = AquaX
+	url = git@github.com:Sypher845/AquaX.git
+[submodule "Flutter-mesh-"]
+	path = Flutter-mesh-
+	url = git@github.com:Sypher845/Flutter-mesh-.git
+[submodule "sangam_analyst_web_application"]
+	path = sangam_analyst_web_application
+	url = git@github.com:ROKUMATE/sangam_analyst_web_application.git
+[submodule "sangam_backend"]
+	path = sangam_backend
+	url = git@github.com:ishur0672-cmyk/sangam_backend.git
+[submodule "Sangam-disaster-dashboard"]
+	path = Sangam-disaster-dashboard
+	url = git@github.com:CodeWithAK28/Sangam-disaster-dashboard.git
